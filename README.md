@@ -1,11 +1,13 @@
-redis-in-action
+Redis In Action
+==============
 
-===============
+Manning *Redis In Action* 一书源码
 
-This project intends to hold the various implementations of code from the book Redis in Action,
-written by Josiah Carlson, published by Manning Publications, which is available for purchase:
-http://manning.com/carlson/
+## Pre-requisites
 
-If you would like to read the Errata, it is available as PDF at the above url, or if you would
-like to see it as HTML; the most recent version in this repository is (hopefully always) available:
-http://htmlpreview.github.io/?https://github.com/josiahcarlson/redis-in-action/blob/master/excerpt_errata.html
+- JDK 1.7.0u71 or better
+- Maven 3.2.3 or better
+- redis-2.6.14.tar.gz
+
+## 读书笔记
+https://github.com/18965050/redis-in-action/wiki
