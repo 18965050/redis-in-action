@@ -1,14 +1,13 @@
-##Prerequisites
+Redis In Action
+==============
 
-* A running Redis instance as mentioned in the book
-* JDK 6 or higher installed (no other Java related software is needed, since the build script takes care of all the rest). 
+Manning *Redis In Action* 一书源码
 
-##Running
+## Pre-requisites
 
-Open a command-line/terminal in the `java` directory and do one of the following: 
+- JDK 1.7.0u71 or better
+- Maven 3.2.3 or better
+- redis-2.6.14.tar.gz
 
-* Windows: 
-    `gradlew.bat -Pchapter=1 run`. Use numbers 1 through 9 depending on the chapter's  examples you want to run
-      
-* Linux/Mac: 
-    `./gradlew -Pchapter=1 run`. Use numbers 1 through 9 depending on the chapter's  examples you want to run
+## 读书笔记
+https://github.com/18965050/redis-in-action/wiki
